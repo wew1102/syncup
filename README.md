@@ -1,3 +1,3 @@
 # syncup
-A matchmaking app focused on friendship.
-Only Login & Signup UI.
+A matchmaking app focused on friendship only Login & Signup UI using Flutter.
+
